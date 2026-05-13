@@ -1,0 +1,7 @@
+{"op":"APPEND","coll":"xp_logs","value":{"id":"01KRH4FWFG450N9NNG9TN3B017","discord_id":"418203372894814228","amount":10,"source":"voice","metadata":{"channel_id":"1375483532700553246","channel_name":"Gaming2"},"created_at":1778691600863},"ts":1778691600881}
+{"op":"INCR","coll":"users","key":"748586806869491872","field":"xp","delta":10,"ts":1778691600913}
+{"op":"APPEND","coll":"xp_logs","value":{"id":"01KRH4FWGTG5D1VS4N9R8WRR1Q","discord_id":"748586806869491872","amount":10,"source":"voice","metadata":{"channel_id":"1375483532700553246","channel_name":"Gaming2"},"created_at":1778691600913},"ts":1778691600923}
+{"op":"INCR","coll":"users","key":"407207816433238036","field":"xp","delta":10,"ts":1778691600928}
+{"op":"APPEND","coll":"xp_logs","value":{"id":"01KRH4FWH30GT76Q556HCNVP4W","discord_id":"407207816433238036","amount":10,"source":"voice","metadata":{"channel_id":"1375483532700553246","channel_name":"Gaming2"},"created_at":1778691600928},"ts":1778691600932}
+{"op":"INCR","coll":"users","key":"505194167379427351","field":"xp","delta":10,"ts":1778691600934}
+{"op":"APPEND","coll":"xp_logs","value":{"id":"01KRH4FWH956591V7VFG9BJXK4","discord_id":"505194167379427351","amount":10,"source":"voice","metadata":{"channel_id":"1375483532700553246","channel_name":"Gaming2"},"created_at":1778691600934},"ts":1778691600938}
