@@ -1,5 +1,0 @@
-{"op":"APPEND","coll":"xp_logs","value":{"id":"01KWHWC3XE6TNTSVT2V71H6E7J","discord_id":"350863712208289792","amount":15,"source":"voice_working","metadata":{"channel_id":"1503999974659194920","channel_name":"🎯 Focus Room 🎯"},"created_at":1783011600845},"ts":1783011610543}
-{"op":"INCR","coll":"users","key":"418203372894814228","field":"xp","delta":15,"ts":1783011611120}
-{"op":"APPEND","coll":"xp_logs","value":{"id":"01KWHWC4FHCCCXG67H60FZC83W","discord_id":"418203372894814228","amount":15,"source":"voice_working","metadata":{"channel_id":"1503999974659194920","channel_name":"🎯 Focus Room 🎯"},"created_at":1783011611120},"ts":1783011611121}
-{"op":"INCR","coll":"users","key":"748586806869491872","field":"xp","delta":15,"ts":1783011611127}
-{"op":"APPEND","coll":"xp_logs","value":{"id":"01KWHWC4FRS61DJAEMYNMY95GK","discord_id":"748586806869491872","amount":15,"source":"voice_working","metadata":{"channel_id":"1503999974659194920","channel_name":"🎯 Focus Room 🎯"},"created_at":1783011611127},"ts":1783011611128}
